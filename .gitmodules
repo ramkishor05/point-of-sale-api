@@ -1,0 +1,3 @@
+[submodule "point-of-sale-auth"]
+	path = point-of-sale-auth
+	url = https://github.com/ramkishor05/point-of-sale-auth.git
