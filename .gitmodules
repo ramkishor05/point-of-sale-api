@@ -1,0 +1,34 @@
+
+[submodule "point-of-sale-auth"]
+	path = point-of-sale-auth
+	url = https://github.com/ramkishor05/point-of-sale-auth.git
+[submodule "point-of-sale-auth-mongo-db"]
+	path = point-of-sale-auth-mongo-db
+	url = https://github.com/ramkishor05/point-of-sale-auth-mongo-db.git
+[submodule "point-of-sale-auth-rdms-db"]
+	path = point-of-sale-auth-rdms-db
+	url = https://github.com/ramkishor05/point-of-sale-auth-rdms-db.git
+[submodule "point-of-sale-crm"]
+	path = point-of-sale-crm
+	url = https://github.com/ramkishor05/point-of-sale-crm.git
+[submodule "point-of-sale-gateway"]
+	path = point-of-sale-gateway
+	url = https://github.com/ramkishor05/point-of-sale-gateway.git
+[submodule "point-of-sale-server"]
+	path = point-of-sale-server
+	url = https://github.com/ramkishor05/point-of-sale-server.git
+[submodule "point-of-sale-item"]
+	path = point-of-sale-item
+	url = https://github.com/ramkishor05/point-of-sale-item.git
+[submodule "point-of-sale-payment"]
+	path = point-of-sale-payment
+	url = https://github.com/ramkishor05/point-of-sale-payment.git
+[submodule "point-of-sale-ordering"]
+	path = point-of-sale-ordering
+	url = https://github.com/ramkishor05/point-of-sale-ordering.git
+[submodule "point-of-sale-app"]
+	path = point-of-sale-app
+	url = https://github.com/ramkishor05/point-of-sale-app.git
+[submodule "point-of-sale-inventory"]
+	path = point-of-sale-inventory
+	url = https://github.com/ramkishor05/point-of-sale-inventory.git
